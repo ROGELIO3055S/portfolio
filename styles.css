@@ -11050,7 +11050,7 @@ html {
 
 
 .home-img img{
-    max-width: 100px;
+    max-width: 150px;
     margin: 20px;
     animation: zoomIn 1s ease forwards, floatImage 4s ease-in-out infinite;
     animation-delay: 1s 3s;
